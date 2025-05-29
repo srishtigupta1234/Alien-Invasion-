@@ -52,6 +52,8 @@ python alien_invasion.py
 
 ### 🧩 File Structure
 
+```bash
+
 Alien-Invasion/
 │
 ├── alien_invasion.py # Main game file
@@ -61,6 +63,8 @@ Alien-Invasion/
 ├── alien.py # Alien enemy logic
 ├── images/ # Game assets (ship, alien sprites, etc.)
 └── README.md # Game documentation
+
+```
 
 ### 🙌 Contribution
 Feel free to fork, improve, and create pull requests. Suggestions and improvements are welcome!
